@@ -1,7 +1,9 @@
-package com.kfit.spring_boot_mybatis;
+package com.kfit.spring_boot_mybatis.service;
 
 import java.util.List;
 
+import com.kfit.spring_boot_mybatis.Demo;
+import com.kfit.spring_boot_mybatis.mapper.DemoMappper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

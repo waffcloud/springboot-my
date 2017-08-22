@@ -1,7 +1,8 @@
-package com.kfit.spring_boot_mybatis;
+package com.kfit.spring_boot_mybatis.mapper;
 
 import java.util.List;
 
+import com.kfit.spring_boot_mybatis.Demo;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Options;
 import org.apache.ibatis.annotations.Select;

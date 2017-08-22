@@ -1,4 +1,4 @@
-package com.kfit.spring_boot_mybatis;
+package com.kfit.spring_boot_mybatis.controller;
 
 import java.util.Map;
 
@@ -23,6 +23,7 @@ public class TemplatesController {
 	
 	/**
 	 * 映射地址是：/templates/hello
+	 *
 	 * @return
 	 */
 	@RequestMapping("/hello")
