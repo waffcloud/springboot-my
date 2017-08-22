@@ -1,4 +1,4 @@
-package com.kfit.spring_boot_mybatis;
+package com.kfit.spring_boot_mybatis.controller;
 
 import java.util.Map;
 
